@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyShape" Collapsed="true">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ChQABMABABAIACAAFEICAACAjBAQIAEAAABDEACAEAA=</HashCode>
+      <FileName>MyShape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Composite" Collapsed="true">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Composite::ShapeSize" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Composite.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ClAEAOAAAAAIAACAAJIRAAACDRAAAAAiAABhEACgABg=</HashCode>
+      <FileName>Composite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Circle" Collapsed="true">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Circle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrototypeManager" Collapsed="true">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAUAAAAAAAAABAABAAAAAAgQAAAABAAAAAAAAAAAIA=</HashCode>
+      <FileName>PrototypeManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
